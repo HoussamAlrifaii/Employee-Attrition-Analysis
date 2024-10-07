@@ -1,3 +1,7 @@
+![Types-of-Employee-Attrition](https://github.com/user-attachments/assets/4379ebb0-e3c6-4701-832b-14090c9223ea)
+
+
+
 # Employee Attrition Analysis: Predicting Employee Turnover
 
 ## Introduction
