@@ -4,7 +4,7 @@
 In today’s competitive job market, understanding employee attrition is vital for organizations aiming to retain top talent. This project utilizes data analytics to identify the key factors influencing an employee's decision to leave, using advanced modeling techniques to predict attrition risk. By leveraging historical employee data, we aim to inform organizational strategies and reduce turnover rates.
 
 
-![Employee Attrition](docs/employee_attrition.jpg)
+
 
 ## Project Overview
 The Employee Attrition Analysis project focuses on predicting employee turnover within an organization. Using a comprehensive dataset containing employee demographics and job performance metrics, this project explores patterns in attrition, assesses risk factors, and investigates potential biases in predictive modeling. The insights generated aim to support informed decision-making related to employee retention strategies.
@@ -45,7 +45,7 @@ The Employee Attrition Analysis project focuses on predicting employee turnover 
 | Job Role                | Current job role of the employee           |
 | Attrition Status        | Indicates whether the employee left (Yes/No) |
 
-![Employee Attrition Visualization](docs/attrition_visualization.png)
+
 
 ## Steps Taken to Train the Model:
 **1. Data Preparation:**
