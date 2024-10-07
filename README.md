@@ -31,6 +31,13 @@ The Employee Attrition Analysis project focuses on predicting employee turnover 
 - Investigates potential biases in predictions, ensuring fair treatment across different demographic groups.
 
 ## Dataset
+### Demographics:  
+- Age  
+- Attrition  
+- Gender  
+- Monthly Income  
+- Job Satisfaction  
+- Performance Rating 
 **Demographics**: Employee ID, Gender, Age, Salary, Job Satisfaction, Performance Rating  
 **Job History**: Years at Company, Job Role, Number of Companies Worked  
 **Attrition Indicators**: Attrition Status, Reason for Leaving  
