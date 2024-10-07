@@ -31,17 +31,10 @@ The Employee Attrition Analysis project focuses on predicting employee turnover 
 - Investigates potential biases in predictions, ensuring fair treatment across different demographic groups.
 
 ## Dataset
-### Demographics:  
-- Age  
-- Attrition  
-- Gender  
-- Monthly Income  
-- Job Satisfaction  
-- Performance Rating 
-**Demographics**: Employee ID, Gender, Age, Salary, Job Satisfaction, Performance Rating  
-**Job History**: Years at Company, Job Role, Number of Companies Worked  
+**Demographics**: Age, Attrition, Gender, Monthly Income, Job Satisfaction, Performance Rating  
+**Job History**: Employee Number, Job Role, Years at Company, Years in Current Role, Num Companies Worked  
 **Attrition Indicators**: Attrition Status, Reason for Leaving  
-**Additional Variables**: Work-life Balance, Training Hours, Overtime Status
+**Additional Variables**: Business Travel, Daily Rate, Department, Distance From Home, Education, Education Field, Employee Count, Environment Satisfaction, Hourly Rate, Job Involvement, Job Level, Marital Status, Monthly Rate, Over 18, Over Time, Percent Salary Hike, Relationship Satisfaction, Standard Hours, Stock Option Level, Total Working Years, Training Times Last Year, Work-Life Balance, Years Since Last Promotion, Years with Current Manager  
 
 ## Data Dictionary:
 | Variable                    | Description                                                    |   
