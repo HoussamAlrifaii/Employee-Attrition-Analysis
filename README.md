@@ -37,17 +37,43 @@ The Employee Attrition Analysis project focuses on predicting employee turnover 
 **Additional Variables**: Work-life Balance, Training Hours, Overtime Status
 
 ## Data Dictionary:
-| Variable                | Description                                 | 
-|-------------------------|---------------------------------------------|
-| Employee ID             | Unique identifier for each employee        |
-| Gender                  | Gender of the employee (Male/Female)      |
-| Age                     | Age of the employee                        | 
-| Salary                  | Annual salary of the employee              |
-| Job Satisfaction        | Employee's job satisfaction score          |
-| Performance Rating      | Rating of employee performance              |
-| Years at Company        | Total years the employee has worked        |
-| Job Role                | Current job role of the employee           |
-| Attrition Status        | Indicates whether the employee left (Yes/No) |
+| Variable                    | Description                                                    |   
+|-----------------------------|----------------------------------------------------------------|  
+| Age                         | Age of the employee                                           |   
+| Attrition                   | Indicates whether the employee left (Yes/No)                 |  
+| Business Travel             | Frequency of business travel (Travel Frequently, Travel Rarely, Non-Travel) |  
+| Daily Rate                  | Daily wage of the employee                                    |  
+| Department                  | Department where the employee works                           |  
+| Distance From Home          | Distance of the employee's home from the workplace           |  
+| Education                   | Education level of the employee                               |  
+| Education Field             | Field of education (e.g., Life Sciences, Marketing)         |  
+| Employee Count              | Total count of employees (likely a constant value)           |  
+| Employee Number             | Unique identifier for each employee                           |  
+| Environment Satisfaction     | Satisfaction level with the work environment (scale of 1-4)  |  
+| Gender                      | Gender of the employee (Male/Female)                         |  
+| Hourly Rate                 | Hourly wage of the employee                                   |  
+| Job Involvement             | Level of involvement in the job (scale of 1-4)              |  
+| Job Level                   | Level of the job (scale)                                     |  
+| Job Role                    | Current job role of the employee                              |  
+| Job Satisfaction            | Employee's job satisfaction score                             |  
+| Marital Status              | Marital status of the employee                                |  
+| Monthly Income              | Monthly salary of the employee                                |  
+| Monthly Rate                | Monthly rate for the employee                                 |  
+| Num Companies Worked        | Number of companies the employee has worked for              |  
+| Over 18                     | Indicates if the employee is over 18 years old (Yes/No)     |  
+| Over Time                   | Indicates if the employee works overtime (Yes/No)            |  
+| Percent Salary Hike         | Percentage increase in salary                                 |  
+| Performance Rating          | Rating of employee performance                                 |  
+| Relationship Satisfaction    | Satisfaction level with relationships at work (scale of 1-4) |  
+| Standard Hours              | Standard hours for the employee's role                       |  
+| Stock Option Level          | Level of stock options (scale)                               |  
+| Total Working Years         | Total years of working experience                             |  
+| Training Times Last Year    | Number of training sessions attended in the last year        |  
+| Work Life Balance           | Work-life balance satisfaction level (scale of 1-4)         |  
+| Years At Company            | Total years the employee has worked at the company           |  
+| Years In Current Role       | Years in the current job role                                 |  
+| Years Since Last Promotion   | Years since the last promotion                                |  
+| Years With Current Manager  | Years working with the current manager                        | 
 
 
 
